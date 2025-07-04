@@ -1,0 +1,9 @@
+echo -e "*.zip\n*.sql\n/vendor\n/node_modules\n.env\n/storage/*.key\n/public/storage\n" >> .gitignore
+*.zip
+*.sql
+/vendor
+/node_modules
+.env
+/storage/*.key
+/public/storage
+
